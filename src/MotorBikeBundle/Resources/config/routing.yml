@@ -1,0 +1,3 @@
+motor_bike_homepage:
+    path:     /
+    defaults: { _controller: MotorBikeBundle:Default:index }
